@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Carlos Andrés Bonilla</h1>
+<h1 align="center">Hola 👋, Soy Carlos Andrés Bonilla</h1>
 <h3 align="center">Un Desarrollador Android Apasionado por conocer nuevas tecnologías.</h3>
 
 - 🔭 Actualmente trabajo con **XpertGroup SAS**
